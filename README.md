@@ -20,4 +20,4 @@
 
 ### Test Function
 
-`python test.py`
+`python google_cloud/test.py`
